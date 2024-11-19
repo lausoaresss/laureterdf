@@ -13,5 +13,10 @@ body{
     margin-bottom: 80px;
     display: flex;
     justify-content: center;
-    
+}
+header{
+   font-size: 35px;
+   color: black;
+   border-bottom: solid 3px white;
+   padding: 20px;
 }
